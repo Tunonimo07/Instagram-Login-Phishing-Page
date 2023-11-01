@@ -1,0 +1,165 @@
+
+.img{
+    margin-top: 20px;
+    margin-left: 250px;
+    
+}
+
+.img1{
+    margin: 25px 0 0 90px;
+    height: 60px;
+    padding-bottom: 25px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+
+.img2{
+    display: block;
+    margin-left: 375px;
+    margin-top: -508px;
+
+}
+
+.img1:hover{
+    cursor: pointer;
+}
+
+
+.login-container{
+    width: 340px;
+    height: 402px;
+    padding: 15px;
+    margin-left: 660px;
+    margin-top: -455px;
+    position: absolute;
+    background-color: white;
+    border-radius: 1px;
+    border: 1px;
+    box-shadow: 0 0 1px 1px rgba(0,0,0,0.1)
+}
+
+
+input{
+    width: 300px;
+    padding: 5px;
+    margin: 7px;
+    margin-left: 20px;
+    outline: white;
+    border-radius: 2px;
+    text-overflow: ellipsis;
+    border: 1px solid rgba(0,0,0,0.3);
+}
+
+.loginbtn{
+    width: 285px;
+    padding: 1px;
+    color: white;
+    font-size: 17px;
+    border-radius: 10px;
+    border: none;
+    font-weight: normal;
+    cursor: pointer;
+    background-color: #1877f2;
+    display: block;
+    margin-top: 10px;
+    margin-left: 32.5px;
+}
+
+.or {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 165px;
+    color: gray;
+    font-family: arial;
+    font-weight: normal;
+}
+
+hr{
+    position: absolute;
+    display: inline-block;
+    color: black;
+    padding: 0 4em;
+    margin-top: 33px;
+    margin-left: 25px;
+}
+
+.hr{
+    position: absolute;
+    display: inline-block;
+    color: black;
+    padding: 0 4em;
+    margin-left: 195px;
+    margin-top: 15px;
+}
+
+.loginfb{
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 50px;
+    margin-left: 120px;
+    display: inline-block;
+    font-family: Arial;
+    color: #385185;
+}
+
+.loginfb:hover{
+    cursor: pointer;
+}
+
+.forgotpass{
+    display: flex;
+    margin-left: 130px;
+    font-family: Arial;
+    font-size: 12px;
+    padding-top: 50px;
+    color: #385185;
+}
+
+.forgotpass:hover{
+    cursor: pointer;
+}
+
+.login-container2{
+    width: 332px;
+    height: 20px;
+    padding: 20px;
+    margin-left: 660px;
+    position: absolute;
+    background-color: white;
+    border-radius: 1px;
+    border: 1px;
+    text-align: center;
+    box-shadow: 0 0 1px 1px rgba(0,0,0,0.1)
+}
+
+.NoAcc{
+    font-family: Arial;
+}
+
+.signup{
+    font-family: arial;
+    color: #385185;
+}
+
+.signup:hover{
+    cursor: pointer;
+}
+
+.footer{
+    margin-top: 80px;
+    margin-left: 800px;
+    position: absolute;
+    font-family: Arial;
+    white-space: nowrap;
+}
+
+.imgfooter{
+    margin-top: 110px;
+    margin-left: 710px;
+    position: absolute;
+    white-space: nowrap;
+}
+
+.imgfooter:hover{
+    cursor: pointer;
+}
